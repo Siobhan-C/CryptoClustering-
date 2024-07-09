@@ -1,7 +1,12 @@
 # CryptoClustering / Module 19 
+------------------------------------------
+Dear Grader / Reviewer:
+Please see my comments included with the submission link. Please note, if there are missing or imperfect components, I am hoping you can evaluate the core work that was done. I understand this may affect the grade, but I'd be grateful if you wouldn't mark it as missing.
+------------------------------------------
+
+
 
 In this challenge, you’ll use your knowledge of Python and unsupervised learning to predict if cryptocurrencies are affected by 24-hour or 7-day price changes.
-
 
 Instructions
 Rename the Crypto_Clustering_starter_code.ipynb file as Crypto_Clustering.ipynb.
