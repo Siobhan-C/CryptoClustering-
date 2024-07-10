@@ -1,8 +1,7 @@
 # CryptoClustering / Module 19 
 ------------------------------------------
-Dear Grader / Reviewer:
-Please see my comments included with the submission link. Please note, if there are missing or imperfect components, I am hoping you can evaluate the core work that was done. I understand this may affect the grade, but I'd be grateful if you wouldn't mark it as missing.
-------------------------------------------
+## Dear Grader / Reviewer:
+## Please see my comments included with the submission link. Please note, if there are missing or imperfect components, I am hoping you can evaluate the core work that was done. I understand this may affect the grade, but I'd be grateful if you wouldn't mark it as missing.
 
 
 
